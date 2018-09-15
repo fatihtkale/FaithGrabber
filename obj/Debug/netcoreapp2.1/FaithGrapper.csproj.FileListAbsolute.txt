@@ -1,0 +1,11 @@
+E:\Programming\c#\FaithGrapper\bin\Debug\netcoreapp2.1\FaithGrapper.deps.json
+E:\Programming\c#\FaithGrapper\bin\Debug\netcoreapp2.1\FaithGrapper.runtimeconfig.json
+E:\Programming\c#\FaithGrapper\bin\Debug\netcoreapp2.1\FaithGrapper.runtimeconfig.dev.json
+E:\Programming\c#\FaithGrapper\bin\Debug\netcoreapp2.1\FaithGrapper.dll
+E:\Programming\c#\FaithGrapper\bin\Debug\netcoreapp2.1\FaithGrapper.pdb
+E:\Programming\c#\FaithGrapper\obj\Debug\netcoreapp2.1\FaithGrapper.csprojAssemblyReference.cache
+E:\Programming\c#\FaithGrapper\obj\Debug\netcoreapp2.1\FaithGrapper.csproj.CoreCompileInputs.cache
+E:\Programming\c#\FaithGrapper\obj\Debug\netcoreapp2.1\FaithGrapper.AssemblyInfoInputs.cache
+E:\Programming\c#\FaithGrapper\obj\Debug\netcoreapp2.1\FaithGrapper.AssemblyInfo.cs
+E:\Programming\c#\FaithGrapper\obj\Debug\netcoreapp2.1\FaithGrapper.dll
+E:\Programming\c#\FaithGrapper\obj\Debug\netcoreapp2.1\FaithGrapper.pdb
