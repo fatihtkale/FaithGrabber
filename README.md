@@ -17,9 +17,10 @@ ipapi.co C# Wrapper
 # Download
 
 ```
-You can download the project via github or 
+You can download the project via github 
 ```
 
 ```
-https://www.nuget.org/packages/FaithGrapper/1.0.0
+Or via NuGet
+Install-Package FaithGrapper -Version 1.0.0 
 ```
